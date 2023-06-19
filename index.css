@@ -1,0 +1,14 @@
+
+
+h1{
+    color: blue;
+}
+
+.nav__menu{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    
+    
+}
+
